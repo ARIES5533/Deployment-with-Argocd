@@ -1,7 +1,5 @@
 # GitOps Deployment with ArgoCD on Amazon EKS
 
-![ArgoCD Logo](https://argoproj.github.io/argo-cd/assets/argocd.png)
-
 This repository showcases a GitOps deployment approach for managing Kubernetes applications on Amazon Elastic Kubernetes Service (EKS) using ArgoCD. With ArgoCD, you can declaratively define your application configurations using YAML files and maintain Git as the single source of truth. The ArgoCD agent is installed on your EKS cluster, which continuously monitors your Git repository to pull the latest changes and updates, ensuring your applications are always up to date.
 
 ## Overview
