@@ -28,7 +28,7 @@ Before you can get started, make sure you have the following prerequisites in pl
 
 ### Installation
 
-1. **Install ArgoCD on EKS**: Follow the official ArgoCD installation documentation to deploy ArgoCD on your EKS cluster.
+1. **Install ArgoCD on EKS**: Follow the official ArgoCD installation documentation to deploy ArgoCD on your EKS cluster, Documentation: https://argo-cd.readthedocs.io/en/stable/getting_started/ .
 
 2. **Connect ArgoCD to Your Git Repository**: Configure ArgoCD to connect to your Git repository. This typically involves setting up Git credentials and configuring the repository URL.
 
